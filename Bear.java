@@ -7,7 +7,7 @@ public class Bear {
     }
 
     public static void main(String[] args) {
-        Bear baloo = new Bear("Sloth bear");
+        Bear baloo = new Bear("Sloth bear - branch1");
         System.out.println(baloo); // Prints: Bear@4517d9a3
         // set object to null
         baloo = null;
